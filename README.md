@@ -15,6 +15,7 @@
 <img align='left' alt='Webpack' width='32px' src='https://camo.githubusercontent.com/d532b8c04479d84d2835721278cb0b96fa7819bfd509a3dfade2ad455fa579d8/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33362f3030303030302f7765627061636b2e706e67'/>
 <img align='left' alt='Figma' width='32px' src='https://camo.githubusercontent.com/29028e8e1c5c18a0fe80dec89256dc577850dc0ed4bf8af565405d126cf4d68c/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f33322f3030303030302f6669676d612d2d76312e706e67'/>
 
+---
 ## Моя статистика
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malykhs1&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
