@@ -4,6 +4,9 @@ I practice yoga and meditation. I am crazy about football and Tel Aviv food.
 Experienced working with teams frontend developer with 2 years of commercial experience in creating web applications using JavaScript, Typescript, React, and related technologies. Skilled in working collaboratively in fast-paced environments and continuously improving my skills.
 ### My tech stack
 ##### HTML, CSS, JavaScript, TypeScript, React, Parcel, Vite, MongoDB, Express.JS, Git,Figma.
+### Contact 
+##### telegram: malykhs
+##### email: malykhs1995@yandex.ru
 
 
 
